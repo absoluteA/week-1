@@ -41,3 +41,8 @@ Week 1 is designed to provide a basic understand of web development concepts.
 4. Create a new repository.
 5. Build a basic static website using the html and css covered in class along with the code examples in this repository.
 6. Push your code from your local machine to GitHub using the command line.
+
+## Resources
+
+1. [Pexels] (http://www.pexels.com/)
+2. [Adobe Kuler] (https://color.adobe.com)
