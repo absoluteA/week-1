@@ -34,9 +34,10 @@ Week 1 is designed to provide a basic understand of web development concepts.
 
 ## Week 1 Requirements
 
-1. Create your [GitHub] (https://github.com/) account. Please make sure to verify your email address when you create your account.
-2. Create your [slack] (https://slack.com/) account.
-3. Fork this repository to your GitHub account.
+1. Read and complete the [BRD] (https://docs.google.com/a/codedbykids.com/document/d/1ni8B7Rd5T2YX6zLWbjrTg2qQAlZBVVWkzsdM7Hp4WHM/edit?usp=sharing).
+2. Create your [GitHub] (https://github.com/) account. Please make sure to verify your email address when you create your account.
+3. Create your [slack] (https://slack.com/) account.
+4. Fork this repository to your GitHub account.
 4. Create a new repository.
 5. Build a basic static website using the html and css covered in class along with the code examples in this repository.
 6. Push your code from your local machine to GitHub using the command line.
