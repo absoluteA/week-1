@@ -21,9 +21,9 @@ Week 1 is designed to provide a basic understand of web development concepts.
 
 **Discussion Topics:**
 
-1. The Web Development Project Process
-2. Common Roles on a Web Development Project
-3. Requirements and Specifications
+1. [The Web Development Project Process] (https://docs.google.com/spreadsheets/d/1eobkNc9r7nZCFv7M4uMJCYKeMIQ3iv-ggh-2S6f1h9o/edit?usp=sharing)
+2. [Common Roles on a Web Development Project] (https://docs.google.com/document/d/1Nyl6X7FYmKw9ASBNU5cZOaukJRtALxTpMtDswO77YOw/edit?usp=sharing)
+3. [Requirements and Specifications] (https://docs.google.com/document/d/1eJeLVAnqFpgqoqGAtscMIm_Yms1eLR6_CVOEIKBEMfE/edit?usp=sharing)
 4. General Web Development Concepts
 5. Overview of Pair Programming
 
