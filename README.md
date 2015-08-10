@@ -1,4 +1,4 @@
-# week 1 Syllabus
+# Week 1 Syllabus
 
 **Class Communication Guidelines** 
 * [Slack](https://codedbykids.slack.com/) - If you have a questions that you need answered please use the slack channel for this class. 
